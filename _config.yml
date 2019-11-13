@@ -1,0 +1,18 @@
+title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Behat with mparker17
+baseurl: "/talk--behavioral-testing-pantheon-gitlab"
+url: "https://mparker17.github.io"
+markdown: CommonMarkGhPages
+remote_theme: mparker17/jekyll-theme--revealjs@master
+plugins:
+  - jekyll-commonmark-ghpages
+  - jekyll-remote-theme
+  - jekyll-relative-links
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
