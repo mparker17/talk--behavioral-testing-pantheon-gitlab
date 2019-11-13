@@ -16,3 +16,8 @@ defaults:
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+revealjs:
+  slideNumber: true
+  hash: true
+  history: true
+  transition: 'none'
