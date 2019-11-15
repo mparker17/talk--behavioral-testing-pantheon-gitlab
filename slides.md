@@ -18,10 +18,13 @@ title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Be
 
 [mparker17][mparker17-drupalorg] on Drupal.org, [Github][mparker17-github], and [Gitlab][mparker17-gitlab]
 
-* Current employers: [Brady's Meat & Deli][bradysmeats], [Digital Echidna][echidna]
-* Former employers: [Environment Canada][wsc], [Versabanq][versabanq], [UWaterloo][uwaterloo], [PeaceWorks][peaceworks], [Myplanet][myplanet], [OpenConcept Consulting][openconcept]
-* Qualifications: [Acquia Certified Drupal Developer][acquia-cert], CS degree not completed at UWaterloo
+I work for [Digital Echidna][echidna], [Brady's Meat & Deli][bradysmeats]
 
+<small>(previously [Environment Canada][wsc], [Versabanq][versabanq], [UWaterloo][uwaterloo], [PeaceWorks][peaceworks], [Myplanet][myplanet], [OpenConcept][openconcept])</small>
+
+I am an [Acquia Certified Drupal Developer][acquia-cert]
+
+<small><abbr title="Computer Science">CS</abbr> degree not completed at UWaterloo</small>
 
 [mparker17-github]: https://github.com/mparker17
 [mparker17-gitlab]: https://gitlab.com/mparker17
