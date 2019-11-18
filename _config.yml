@@ -22,4 +22,4 @@ revealjs:
   slideNumber: 'c/t'
   hash: true
   history: true
-  transition: 'none'
+  transitionSpeed: 'fast'
