@@ -21,7 +21,7 @@ title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Be
 
 [mparker17][mparker17-drupalorg] on Drupal.org, [GitHub][mparker17-github], and [GitLab][mparker17-gitlab]
 
-I work for [Digital Echidna][echidna], [Brady's Meat & Deli][bradysmeats]
+I work for [Brady's Meat & Deli][bradysmeats], [Digital Echidna][echidna]
 
 <small>(previously [Environment Canada][wsc], [Versabanq][versabanq], [UWaterloo][uwaterloo], [PeaceWorks][peaceworks], [Myplanet][myplanet], [OpenConcept][openconcept])</small>
 
