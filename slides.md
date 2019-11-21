@@ -24,6 +24,7 @@ title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Be
 I work for [Brady's Meat & Deli][bradysmeats], [Digital Echidna][echidna]
 
 ![Brady's Meat & Deli's logo](assets/images/2019-11-20--sponsor--bradysmeats.svg)
+![Digital Echidna's logo](assets/images/2019-11-20--sponsor--digital-echidna.svg)
 
 <small>(previously [Environment Canada][wsc], [Versabanq][versabanq], [UWaterloo][uwaterloo], [PeaceWorks][peaceworks], [Myplanet][myplanet], [OpenConcept][openconcept])</small>
 
