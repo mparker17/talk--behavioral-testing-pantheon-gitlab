@@ -80,7 +80,7 @@ I am an [Acquia Certified Drupal Developer][acquia-cert]
     * ... for our use case, [Pantheon][pantheon-pricing] is still cheaper by large margin
 4. Reading support pages and forums pointed me to [`pantheon-systems/example-drops-8-composer`][example-drops-8-composer]
     * it didn't solve the broken automatic updates;
-    * but it is a recommended way of adding creating a site with composer dependencies
+    * but it is a recommended way of managing a site with composer dependencies
 
 [example-drops-8-composer]: https://github.com/pantheon-systems/example-drops-8-composer/
 [acquia-cloud]: https://www.acquia.com/products-services/acquia-cloud
