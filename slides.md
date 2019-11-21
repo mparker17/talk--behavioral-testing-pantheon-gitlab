@@ -16,6 +16,7 @@ title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Be
 <!-- Introduction -->
 
 <section>
+<section>
 
 ## Who am I?
 
@@ -27,10 +28,6 @@ I work for [Brady's Meat & Deli][bradysmeats], [Digital Echidna][echidna]
 ![Digital Echidna's logo](assets/images/2019-11-20--sponsor--digital-echidna.svg)
 
 <small>(previously [Environment Canada][wsc], [Versabanq][versabanq], [UWaterloo][uwaterloo], [PeaceWorks][peaceworks], [Myplanet][myplanet], [OpenConcept][openconcept])</small>
-
-I am an [Acquia Certified Drupal Developer][acquia-cert]
-
-<small><abbr title="Computer Science">CS</abbr> degree not completed at UWaterloo</small>
 
 [mparker17-github]: https://github.com/mparker17
 [mparker17-gitlab]: https://gitlab.com/mparker17
@@ -45,6 +42,20 @@ I am an [Acquia Certified Drupal Developer][acquia-cert]
 [acquia-cert]: https://certification.acquia.com/user/843258
 
 </section>
+<section>
+
+## Who am I? (ctd.)
+
+I am an [Acquia Certified Drupal Developer][acquia-cert]
+
+<small><abbr title="Computer Science">CS</abbr> degree not completed at [UWaterloo][uwaterloo]</small>
+
+[acquia-cert]: https://certification.acquia.com/user/843258
+[uwaterloo]: https://uwaterloo.ca
+
+</section>
+</section>
+
 
 <!-- Why. -->
 
