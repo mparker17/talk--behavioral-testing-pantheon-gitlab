@@ -2,7 +2,7 @@
 title: Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Behat - slides
 ---
 
-<section>
+<section data-background="assets/images/2019-11-20--canonical-site--qr.png" data-background-size="123px" data-background-position="bottom left">
 
 # Automated Behavioral Testing on a budget with Pantheon, GitLab CI, and Behat
 — with [mparker17][mparker17-drupalorg]
