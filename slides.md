@@ -90,61 +90,6 @@ I am an [Acquia Certified Drupal Developer][acquia-cert]
 [pantheon-pricing]: https://pantheon.io/plans/pricing
 
 </section>
-<section>
-
-## Why Pantheon?
-
-1. I'm the only developer at Brady's — and I'm not a ops security expert
-2. Maintaining our own server would take too much time
-3. Specialized Drupal hosting (in general) has key features:
-    * Drupal-tuned application firewall,
-    * strong control over code,
-    * automated backups,
-    * automated error collection and logging.
-
-</section>
-<section>
-
-## Why Pantheon? (ctd.)
-
-4. Pantheon (in particular) saves me time:
-    * competitive price;
-    * zero-config+free: HTTPS, traffic scaling, <abbr title="Content Distribution Network">CDN</abbr>, advanced caching, server-side metrics collection;
-    * Canadian data residency;
-    * automated status checks.
-    * (automatic core updates; but we are no longer using this feature)
-
-</section>
-<section>
-
-## Why GitLab CI?
-
-1. Simple pricing scheme ([max 2000 minutes/month][gitlab-pricing], versus [buying "credits"][circleci-pricing] or [max number of users][bitbucket-pricing]),
-2. Useful, clear metrics — cycle time, CI job time,
-3. Easy to set up a self-hosted Community Edition instance,
-4. Other open-source projects that I use have started using it ([Drupal.org][drupal-gitlab], [GNOME][gnome-gitlab], [LineageOS][lineage-gitlab], etc.).
-
-[gitlab-pricing]: https://about.gitlab.com/pricing/
-[circleci-pricing]: https://circleci.com/pricing/
-[bitbucket-pricing]: https://bitbucket.org/product/pricing
-[gitlab-ce]: https://about.gitlab.com/install/
-[drupal-gitlab]: https://git.drupalcode.org
-[gnome-gitlab]: https://gitlab.gnome.org
-[lineage-gitlab]: https://gitlab.com/LineageOS
-
-</section>
-<section>
-
-## Why Behat?
-
-1. We mainly need a way to test for regressions,
-2. Very little custom code on the Bradys site — all behavior in config,
-3. Working configuration already in template Pantheon repo,
-4. Specify behavior with industry-standard [Gherkin][gherkin] <abbr title="Domain Specific Language">DSL</abbr>.
-
-[gherkin]: https://cucumber.io/docs/gherkin/reference/
-
-</section>
 </section>
 
 <!-- Artifact repos -->

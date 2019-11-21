@@ -8,7 +8,7 @@ layout: static
 
 Speaker notes
 
-## 0/31 - (prep)
+## 0/27 - (prep)
 
 1. Screensaver off on computer, phone?
 2. Slides working?
@@ -16,7 +16,7 @@ Speaker notes
 4. Wireless presenter working?
 5. Mute slides, if applicable.
 
-## 1/31 - (title)
+## 1/27 - (title)
 
 1. Unmute slides, if applicable.
 2. Can everyone hear me?
@@ -25,7 +25,7 @@ Speaker notes
 5. Thank everyone for coming.
 6. Thank hosts, if applicable.
 
-## 2/31 - Who am I?
+## 2/27 - Who am I?
 
 1. mparker17; but not on social media
 2. I work for Brady's Meat & Deli, a small butcher shop in Waterloo, Ontario, Canada
@@ -34,11 +34,11 @@ Speaker notes
     3. Created the shop's website in 2005; switched to Drupal 6 in 2009; then D7 in 2012
 3. I also work for a web development firm in London called Digital Echidna
 
-## 3/31 - Who am I? (ctd.)
+## 3/27 - Who am I? (ctd.)
 
 (see slide)
 
-## 4/31 - How did this all start?
+## 4/27 - How did this all start?
 
 1. I'm currently the only developer on the Bradys website.
 2. I'm working on porting the Brady's website to D8
@@ -50,7 +50,7 @@ Speaker notes
 7. So... as I'm porting the Bradys website, I realize we're going to need to use composer... dun dun dun
     1. Aside - We use Drupal Commerce's backend to handle Turkey orders at Thanksgiving and Christmas. Starting with [Canadian] Thanksgiving in 2019, we've added a custom order-form front-end
 
-## 5/31 - How did this all start? (ctd.)
+## 5/27 - How did this all start? (ctd.)
 
 1. Since I was kinda blocked on porting to D8 because of drops-8; I decided to do some research... maybe other hosting providers with better support for composer had better pricing options than the last time I looked?
 2. Turns out, no.
