@@ -99,6 +99,19 @@ I am an [Acquia Certified Drupal Developer][acquia-cert]
 
 ## Concept: artifact repos
 
+<div class="fragment">
+
+<small>By Illustratedjc - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26761018</small>
+
+![A photo of Kitchener's THEMUSEUM, taken by Illustratedjc](assets/images/2013-06-19--Illustratedjc--themuseum.jpg)
+
+</div>
+
+</section>
+<section>
+
+### Concept: artifact repos (ctd.)
+
 <div class="fragment fade-in-then-semi-out">
 
 1. PHP is an interpreted language: its source code is the program — "traditional" languages are compiled to "artifacts", which get distributed/run.

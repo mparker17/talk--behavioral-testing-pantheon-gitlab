@@ -8,7 +8,7 @@ layout: static
 
 Speaker notes
 
-## 0/27 - (prep)
+## 0/28 - (prep)
 
 1. Screensaver off on computer, phone?
 2. Slides working?
@@ -16,7 +16,7 @@ Speaker notes
 4. Wireless presenter working?
 5. Mute slides, if applicable.
 
-## 1/27 - (title)
+## 1/28 - (title)
 
 1. Unmute slides, if applicable.
 2. Can everyone hear me?
@@ -24,8 +24,9 @@ Speaker notes
 4. Start recording, if applicable.
 5. Thank everyone for coming.
 6. Thank hosts, if applicable.
+7. ¤
 
-## 2/27 - Who am I?
+## 2/28 - Who am I?
 
 1. mparker17; but not on social media
 2. I work for Brady's Meat & Deli, a small butcher shop in Waterloo, Ontario, Canada
@@ -33,12 +34,14 @@ Speaker notes
     2. Started out washing dishes and cleaning; later serving customers; now mostly come in to look after computer, scales, audio, cash register, etc.
     3. Created the shop's website in 2005; switched to Drupal 6 in 2009; then D7 in 2012
 3. I also work for a web development firm in London called Digital Echidna
+4. ¤
 
-## 3/27 - Who am I? (ctd.)
+## 3/28 - Who am I? (ctd.)
 
-(see slide)
+1. (see slide)
+2. ¤
 
-## 4/27 - How did this all start?
+## 4/28 - How did this all start?
 
 1. I'm currently the only developer on the Bradys website.
 2. I'm working on porting the Brady's website to D8
@@ -49,8 +52,9 @@ Speaker notes
 6. ... but you can't use Composer - if you make any Composer changes, your one-click updates will fail forevermore; with thousands of merge conflicts
 7. So... as I'm porting the Bradys website, I realize we're going to need to use composer... dun dun dun
     1. Aside - We use Drupal Commerce's backend to handle Turkey orders at Thanksgiving and Christmas. Starting with [Canadian] Thanksgiving in 2019, we've added a custom order-form front-end
+8. ¤
 
-## 5/27 - How did this all start? (ctd.)
+## 5/28 - How did this all start? (ctd.)
 
 1. Since I was kinda blocked on porting to D8 because of drops-8; I decided to do some research... maybe other hosting providers with better support for composer had better pricing options than the last time I looked?
 2. Turns out, no.
